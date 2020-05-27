@@ -1,3 +1,3 @@
 # stylochus_r
 
-Graduate these R analysis script and associated figures and tables
+Graduate thesis R analysis script and associated figures and tables
