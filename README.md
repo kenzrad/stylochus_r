@@ -1,3 +1,5 @@
-# stylochus_r
+# Understanding the role of Stylochus ellipticus as a predator of Crassostrea virginica in Chesapeake Bay tributaries
 
-Graduate thesis R analysis script and associated figures and tables
+R script and associated figures and tables for 2014 Master's Thesis
+
+[DOI](https://doi.org/10.25772/K42A-DE54)
